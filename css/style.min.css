@@ -312,6 +312,8 @@ a:hover {
     padding-bottom: 15px;
     margin-bottom: 15px;
     border-bottom: 1px dashed #ccc;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 .menus p, .menus h3 {
