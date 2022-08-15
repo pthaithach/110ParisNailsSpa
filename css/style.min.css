@@ -959,6 +959,13 @@ a:hover {
     color: #999;
 }
 
+.title-sub{
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #af9114;
+}
+
 .color-silver-2 {
     color: #ddd;
 }
